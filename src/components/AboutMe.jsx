@@ -54,7 +54,7 @@ export default function AboutMe() {
             </div>
           </div>
           <div className="relative">
-            <div className="border-4 rounded-full border-blue-600 md:rounded-full">
+            <div className="md:border-4 md:border-blue-600 md:rounded-full">
               <img
                 src={profileImage}
                 className="relative z-10 w-[280px] m-auto sm:w-[600px] rounded-full hover:scale-110 duration-500"

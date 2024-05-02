@@ -42,6 +42,14 @@ export default function Nav() {
                 </li>
                 <li>
                   <a
+                    href="#work"
+                    className="text-gray-400 hover:text-white cursor-pointer"
+                  >
+                    Work
+                  </a>
+                </li>
+                <li>
+                  <a
                     href="#contact"
                     className="text-gray-400 hover:text-white cursor-pointer"
                   >

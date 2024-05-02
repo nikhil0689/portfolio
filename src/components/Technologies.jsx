@@ -18,7 +18,7 @@ import MYSQL from "../assets/mysQL.png";
 export default function Technologies() {
   return (
     <section id="technologies" className="py-10">
-      <div className="container m-auto px-4">
+      <div className="container m-auto px-4 sm:py-12">
         <h2 className="text-2xl font-semibold text-blue-500">Technologies</h2>
         <div className="mt-1">
           <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8">

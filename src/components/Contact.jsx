@@ -4,7 +4,7 @@ export default function Contact() {
       <section id="contact">
         <div className="container m-auto px-4">
           <h2 className="text-2xl font-semibold text-blue-500">Contact</h2>
-          <div className="pb-8">
+          <div className="pb-2">
             <p className="text-white py-4">
               Submit the form below or shoot me an email at&nbsp;&nbsp;
               <span className=" text-blue-500">

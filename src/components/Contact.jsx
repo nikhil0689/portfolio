@@ -1,8 +1,8 @@
 export default function Contact() {
   return (
     <div>
-      <section id="contact">
-        <div className="container m-auto px-4">
+      <section id="contact" className="py-10">
+        <div className="container m-auto px-4 sm:py-12">
           <h2 className="text-2xl font-semibold text-blue-500">Contact</h2>
           <div className="pb-2">
             <p className="text-white py-4">
@@ -12,7 +12,7 @@ export default function Contact() {
               </span>
             </p>
           </div>
-          <div className=" flex items-center justify-center">
+          <div className="flex items-center justify-center">
             <form
               method="POST"
               action="https://getform.io/f/jbwxrpna"
